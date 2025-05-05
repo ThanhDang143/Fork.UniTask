@@ -8,5 +8,9 @@
     "keywords": [ "async/await", "async", "Task", "UniTask" ],
     "license": "MIT",
     "category": "Task",
-    "dependencies": {}
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ThanhDang143/Fork.UniTask.git"
+      }
 }
